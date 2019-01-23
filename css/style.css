@@ -1,0 +1,67 @@
+ body{
+     background-color : rgb(87, 198, 226);
+     
+ }
+ #tot{
+    padding-top: 50px;
+    margin-left: 100PX;
+    font-size: 25px;
+    
+   
+}
+.parag{
+    padding-left: 20px;
+}
+#titre1{
+    color: white;
+    display: inline-block;
+}
+#titre2{display: inline-block;}
+ #photo{
+     height: 300px;
+     width: 400px;
+ }
+ .cap{
+    font-weight: bold;
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+#corner{
+    border-radius: 10px;
+}
+#p1 {
+margin-left: 100px;
+height: 600px;
+display: inline-block;
+border-width:2px;
+ border-style:solid ;
+ border-color:black;
+ background-color: white;
+}
+#p2 {
+background-color: white;
+margin-right: 70px;
+height: 600px;
+display: inline-block;
+padding-left: 30px;
+border-width:2px;
+ border-style:solid ;
+ border-color:black;
+ 
+
+}
+.les2 {
+display:inline;
+
+
+}
+#msg {
+    height: 100px;
+    width: 600px;
+}
+#sub{
+    width: 600px;
+    height: 30px;
+}
